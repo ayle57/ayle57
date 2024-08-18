@@ -4,7 +4,7 @@
 
 Salut, je suis Aylé, développeur fullstack sympathique et engagé, spécialisé en Symfony et en ReactJS. Je suis passionné par le développement web, la lecture, les mathématiques et la pâtisserie ! 🚀
 
-- 🌱 Actuellement, je perfectionne mon apprentissage de RubyOnRails.
+- 🌱 Actuellement, je perfectionne mon apprentissage de Rust.
 - 💼 Je travaille en tant que développeur freelance.
 - 👯 Je suis ouvert à la collaboration sur des projets intéressants.
 - 💬 N'hésitez pas à me contacter pour discuter d'éventuels projets ! 📫
@@ -20,7 +20,7 @@ Salut, je suis Aylé, développeur fullstack sympathique et engagé, spécialis�
 Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 (Certains sites sont en révision)
-1. [Adhyanga](https://www.adhyanga.fr) - Site vitrine d'une praticienne en kinésiologie (en refonte).
+1. [Adhyanga](https://www.adhyanga.fr) - Site vitrine d'une praticienne en kinésiologie.
 2. [Academyx](https://www.academyxonline.com) - Développement front-end d'un e-commerce de vente d'outils d'analyse de marché.
 3. [Watchphilia](https://www.watchphilia.com) - Développement fullstack d'un site web d'affichage de montres.
 4. [Lekangourou](http://www.lekangourou.eu) - (url non-sécurisée) Développement front-end d'un site vitrine de vente de sac agricole.
@@ -30,6 +30,11 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 ## Contribution Open Source
 
 Je suis ouvert à tous les projets ! 🎉
+
+## Projets Personnels
+
+1. Copie fonctionnelle de [Netflix](https://www.netflix.com)
+2. Copie front-end de [Translocal](https://www.translocal.eu)
 
 ## Me contacter
 
