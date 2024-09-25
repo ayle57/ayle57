@@ -24,6 +24,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 2. [Academyx](https://www.academyxonline.com) - Développement front-end d'un e-commerce de vente d'outils d'analyse de marché.
 3. [Watchphilia](https://www.watchphilia.com) - Développement fullstack d'un site web d'affichage de montres.
 4. [Lekangourou](http://www.lekangourou.eu) - (url non-sécurisée) Développement front-end d'un site vitrine de vente de sac agricole.
+5. [Portfolio Léo Scapin](https://scapin-leo.com/) - Portfolio de Léo Scapin
    
 À venir très prochainement d'autres projets !
 
