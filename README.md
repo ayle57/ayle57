@@ -2,10 +2,9 @@
 
 ## À propos de moi
 
-Salut, je suis Aylé, développeur fullstack sympathique et engagé, spécialisé en Symfony et en ReactJS. Je suis passionné par le développement web, la lecture, les mathématiques et la pâtisserie ! 🚀
+Salut, je suis Aylé, développeur sympathique et engagé, spécialisé en Symfony et en ReactJS. Je suis passionné par le développement web, la lecture, les mathématiques et la pâtisserie ! 🚀
 
 - 🌱 Actuellement, je perfectionne mon apprentissage de Rust.
-- 💼 Je travaille en tant que développeur freelance.
 - 👯 Je suis ouvert à la collaboration sur des projets intéressants.
 - 💬 N'hésitez pas à me contacter pour discuter d'éventuels projets ! 📫
 
