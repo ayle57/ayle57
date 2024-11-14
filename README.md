@@ -24,6 +24,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 3. [Watchphilia](https://www.watchphilia.com) - Développement fullstack d'un site web d'affichage de montres.
 4. [Lekangourou](http://www.lekangourou.eu) - (url non-sécurisée) Développement front-end d'un site vitrine de vente de sac agricole.
 5. [Portfolio Léo Scapin](https://scapin-leo.com/) - Portfolio de Léo Scapin
+6. [Mon Petit Traqueur](https://monpetittraqueur.com/) - Front-End du site web
    
 À venir très prochainement d'autres projets !
 
