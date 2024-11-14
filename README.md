@@ -40,7 +40,7 @@ Je suis ouvert à tous les projets ! 🎉
 ## Me contacter
 
 - Email : allistair.jak@gmail.com
-- Discord : theo.pro
+- Discord : pro_theo
 - Télégram : Allistair J
 
 N'hésitez pas à parcourir mes projets et à me contacter si vous avez des questions ou si vous souhaitez discuter de collaborations potentielles !
