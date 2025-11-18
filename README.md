@@ -21,7 +21,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 (Certains sites sont en révision)
 1. [Adhyanga](https://www.adhyanga.fr) - Site vitrine d'une praticienne en kinésiologie.
 2. [Academyx](https://www.academyxonline.com) - Développement front-end d'un e-commerce de vente d'outils d'analyse de marché.
-3. [IsOcean](https://isocean.fr/) - Développement front-end d'un site vitrine de vente de sac agricole.
+3. [IsOcean](https://isocean.fr/) - Développement front-end d'un site vitrine de vente de services informatiques.
 4. [LeKangourou](https://lekangourou.eu/) - Développement fullstack d'un site de vente de paniers.
 
 À venir très prochainement d'autres projets !
